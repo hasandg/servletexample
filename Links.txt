@@ -1,0 +1,4 @@
+http://localhost:8080/servletexample_war_exploded/
+http://localhost:8080/servletexample_war_exploded/DemoServlet
+http://localhost:8080/servletexample_war_exploded/DemoServlet2
+http://localhost:8080/servletexample_war_exploded/demoPath2
